@@ -3,9 +3,9 @@ The Rainbow
 Violet
 Indigo
 Blue
-Green
+Green 1
 Yellow
 Orange
-Red
+Red 1
 
 These are the colors of the rainbow.
